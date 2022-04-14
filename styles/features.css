@@ -1,0 +1,15 @@
+.features {
+	padding: var(--largeSpace) 0;
+}
+
+.features-icon img {
+	width: 100px;
+}
+
+.features .title-medium {
+	color: var(--accentColor);
+}
+
+.features-item {
+  padding: var(--standardSpace);
+}

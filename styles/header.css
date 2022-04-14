@@ -1,0 +1,22 @@
+.header {
+  width: 100%;
+  background: #fff;
+}
+
+.header-nav {
+  vertical-align: baseline;
+  line-height: 36px;
+}
+
+.header-nav-item {
+  list-style: none;
+  padding: 0 30px;
+  margin: 0;
+  display: inline-block;
+}
+
+.header-nav-link {
+  text-decoration: none;
+  color: #09092a;
+  font-weight: bold;
+}

@@ -1,0 +1,17 @@
+.reviews {
+	padding: var(--largeSpace) 0;
+	background-color: var(--secondColor);
+}
+
+.reviews-header {
+	border-bottom: 1px solid grey;
+}
+
+.reviews .title-large {
+	color: var(--accentColor);
+}
+
+.review {
+	padding: var(--mediumSpace);
+	padding-bottom:  0;
+}

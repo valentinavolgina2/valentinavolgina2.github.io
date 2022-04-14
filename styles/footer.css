@@ -1,0 +1,21 @@
+.footer {
+	border-top: 1px solid grey;
+}
+
+.footer-column {
+	padding: var(--mediumSpace);
+}
+
+.footer-column-header {
+	font-weight: 700;
+}
+
+.footer-list {
+	list-style: none;
+	line-height: 2em;
+}
+
+.footer-link {
+	text-decoration: none;
+	color: #444;
+}

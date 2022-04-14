@@ -1,0 +1,29 @@
+.button {
+	display: inline-block;
+  border-radius: var(--radius);
+  font-size: 1.2em;
+  text-decoration: none;
+  padding: 15px 30px;
+  text-shadow: 2px 1px 1px rgba(0, 0, 0, 0.15);
+  font-weight: bold;
+}
+
+.button-white {
+  background: #fff;
+  color: var(--accentColor);
+}
+
+.button-white:hover {
+  background: var(--accentColor);
+  color: #fff;
+}
+
+.button-blue {
+  background: var(--accentColor);
+  color: #fff;
+}
+
+.button-blue:hover {
+  background: var(--secondColor);
+  color: var(--accentColor);
+}

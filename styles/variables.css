@@ -1,0 +1,11 @@
+:root {
+	--standardSpace: 20px;
+  --mediumSpace: 40px;
+  --largeSpace: 60px;
+
+  --radius: 8px;
+  --radiusLarge: 16px;
+
+  --accentColor: #09092a;
+  --secondColor: #f4f6f0;
+}
